@@ -1,0 +1,4 @@
+#!/usr/bin/env python3
+from scripts.viralstep import MainBase
+
+MainBase()

@@ -1,0 +1,6 @@
+[submodule "scripts/BaitsTools"]
+	path = scripts/BaitsTools
+	url = git@github.com:campanam/BaitsTools.git
+[submodule "scripts/VHost-Classifier"]
+	path = scripts/VHost-Classifier
+	url = https://github.com/Kzra/VHost-Classifier.git
