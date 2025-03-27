@@ -1,6 +1,6 @@
 # Viral Syndromic Target Enrichment Pipeline (ViralSTEP)
 
-Provided in partial fulfilment of the requires for the degree Doctor of Philosophy.
+Provided in partial fulfilment of the requirments for the degree Doctor of Philosophy.
 
 Files and methodology pertaining to the development of virus hybridization probes or baits. VHost-Classifier and BaitsTools (v1.6.2) provided as submodules.
 
