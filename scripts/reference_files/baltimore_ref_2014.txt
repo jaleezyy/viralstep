@@ -1,0 +1,144 @@
+Ackermannviridae	
+Adenoviridae	dsDNA
+Adomaviridae	
+Alloherpesviridae	dsDNA
+Alphaflexiviridae	+ssRNA
+Alphasatellitidae	
+Alphatetraviridae	+ssRNA
+Alvernaviridae	+ssRNA
+Amalgaviridae	dsRNA
+Amnoonviridae	
+Ampullaviridae	dsDNA
+Anelloviridae	ssDNA
+Arenaviridae	-ssRNA
+Arteriviridae	+ssRNA
+Ascoviridae	dsDNA
+Asfarviridae	dsDNA
+Aspiviridae	
+Astroviridae	+ssRNA 
+Autolykiviridae	
+Bacilladnaviridae	
+Baculoviridae	dsDNA
+Barnaviridae	+ssRNA
+Benyviridae	+ssRNA
+Betaflexiviridae	+ssRNA
+Bicaudaviridae	dsDNA
+Bidnaviridae	ssDNA
+Birnaviridae	dsRNA
+Bornaviridae	-ssRNA
+Bromoviridae	+ssRNA
+Caliciviridae	+ssRNA
+Carmotetraviridae	+ssRNA
+Caulimoviridae	dsDNA-RT
+Chrysoviridae	
+Chuviridae	
+Circoviridae	ssDNA
+Clavaviridae	dsDNA
+Closteroviridae	+ssRNA
+Coronaviridae	+ssRNA
+Corticoviridae	dsDNA
+Cruciviridae	
+Cruliviridae	
+Cystoviridae	dsRNA
+Deltaflexiviridae	+ssRNA
+Dicistroviridae	+ssRNA
+Endornaviridae	dsRNA
+Euroniviridae	
+Filoviridae	-ssRNA
+Fimoviridae	
+Flaviviridae	+ssRNA
+Flexiviridae	+ssRNA
+Fusariviridae	
+Fuselloviridae	dsDNA
+Gammaflexiviridae	+ssRNA
+Geminiviridae	ssDNA
+Genomoviridae	
+Globuloviridae	dsDNA
+Guttaviridae	dsDNA
+Hantaviridae	
+Hepadnaviridae	dsDNA-RT
+Hepeviridae	+ssRNA
+Herpesviridae	dsDNA
+Hypoviridae	dsRNA
+Hytrosaviridae	dsDNA
+Iflaviridae	ssRNA
+Inoviridae	ssDNA
+Iridoviridae	dsDNA
+Lavidaviridae	
+Leviviridae	+ssRNA
+Lipothrixviridae	dsDNA
+Luteoviridae	+ssRNA
+Malacoherpesviridae	dsDNA
+Marnaviridae	+ssRNA
+Marseilleviridae	dsDNA
+Medioniviridae	
+Megabirnaviridae	dsRNA
+Mesoniviridae	+ssRNA
+Metaviridae	ssRNA-RT
+Microviridae	+ssRNA
+Mimiviridae	dsDNA
+Mononiviridae	
+Mymonaviridae	
+Myoviridae	dsDNA
+Mypoviridae	
+Nairoviridae	
+Nanoviridae	ssDNA
+Narnaviridae	+ssRNA
+Nimaviridae	dsDNA
+Nodaviridae	+ssRNA
+Nudiviridae	dsDNA
+Nyamiviridae -ssRNA
+Orthomyxoviridae -ssRNA
+Papillomaviridae dsDNA
+Paramyxoviridae	-ssRNA
+Partitiviridae	dsRNA
+Parvoviridae	ssDNA
+Peribunyaviridae	-ssRNA
+Bunyaviridae	-ssRNA
+Permutotetraviridae	+ssRNA
+Phasmaviridae	
+Phenuiviridae	
+Phycodnaviridae	dsDNA
+Picobirnaviridae	dsRNA
+Picornaviridae	+ssRNA
+Pithoviridae	
+Plasmaviridae	dsDNA
+Pleolipoviridae	ssDNA
+Pneumoviridae	
+Podoviridae	dsDNA
+Polycipiviridae	
+Polydnaviridae	dsDNA
+Polyomaviridae	dsDNA
+Portogloboviridae	
+Potyviridae	+ssRNA
+Poxviridae	dsDNA
+Qinviridae	
+Quadriviridae	dsRNA
+Reoviridae	dsRNA
+Retroviridae	ssRNA-RT
+Rhabdoviridae	-ssRNA
+Roniviridae	+ssRNA
+Rudiviridae	dsDNA
+Sarthroviridae
+Secoviridae	+ssRNA
+Siphoviridae	dsDNA
+Smacoviridae	
+Solemoviridae	
+Solinviviridae	
+Sphaerolipoviridae	
+Sphaeromadae	
+Spiraviridae	ssDNA
+Sunviridae	
+Tectiviridae	dsDNA
+Tobaniviridae	
+Togaviridae	+ssRNA
+Tolecusatellitidae	
+Tombusviridae	+ssRNA
+Totiviridae	dsRNA
+Tristromaviridae	
+Turriviridae	dsDNA
+Tymoviridae	+ssRNA
+Unclassified	Unknown
+Virgaviridae	+ssRNA
+Wupedeviridae	
+Yueviridae	
